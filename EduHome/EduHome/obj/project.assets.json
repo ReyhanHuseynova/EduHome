@@ -7464,11 +7464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHome\\EduHome\\EduHome.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHomeGit\\EduHome\\EduHome\\EduHome\\EduHome.csproj",
       "projectName": "EduHome",
-      "projectPath": "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHome\\EduHome\\EduHome.csproj",
+      "projectPath": "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHomeGit\\EduHome\\EduHome\\EduHome\\EduHome.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHome\\EduHome\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHomeGit\\EduHome\\EduHome\\EduHome\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
