@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHome - Kopya\\EduHome\\EduHome.csproj": {}
+    "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHomeGit\\EduHome\\EduHome - Kopya\\EduHome\\EduHome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHome - Kopya\\EduHome\\EduHome.csproj": {
+    "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHomeGit\\EduHome\\EduHome - Kopya\\EduHome\\EduHome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHome - Kopya\\EduHome\\EduHome.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHomeGit\\EduHome\\EduHome - Kopya\\EduHome\\EduHome.csproj",
         "projectName": "EduHome",
-        "projectPath": "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHome - Kopya\\EduHome\\EduHome.csproj",
+        "projectPath": "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHomeGit\\EduHome\\EduHome - Kopya\\EduHome\\EduHome.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHome - Kopya\\EduHome\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\OneDrive\\İş masası\\EduHomeGit\\EduHome\\EduHome - Kopya\\EduHome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
