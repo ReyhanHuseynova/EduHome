@@ -1,0 +1,66 @@
+﻿@model List<Slider>
+
+<div class="row">
+    <div class="col-12">
+        <!-- Bootstrap Dark Table -->
+        <div class="card">
+            <div class="d-flex justify-content-between align-items-xl-center">
+                <h5 class="card-header">Sliders</h5>
+
+                <div style="margin-right:5px">
+                    <a  asp-action="Create" class="btn btn-primary text-white">Create</a>
+                </div>
+            </div>
+
+            <div class="table-responsive text-nowrap">
+                <table class="table table-dark">
+                    <thead>
+                        <tr>
+                            <th>Image</th>
+                            <th>Title</th>
+                           
+
+                            <th style="text-align:right">Action</th>
+
+                        </tr>
+                    </thead>
+                    <tbody class="table-border-bottom-0">
+                        @foreach (Slider item in Model)
+                        {
+                            <tr>
+                                <td><img style="width:200px; height:100px; object-fit:cover" src="~/img/slider/@item.Image"/></td>
+                                <td>@item.Title</td>
+                                
+
+
+                                <td>
+                                    <div class="d-flex justify-content-end">
+                                        <div style="margin-right:5px">
+                                            <a  asp-action="Update" asp-route-id="@item.Id" class="btn btn-info">Update</a>
+                                        </div>
+                                        <div style="margin-right:5px">
+                                            <a   asp-action="Detail" asp-route-id="@item.Id" class="btn btn-success">Detail</a>
+                                        </div>
+
+                                        <div style="margin-right:5px">
+                                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                                        </div>
+
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <!--/ Bootstrap Dark Table -->
+
+
+    </div>
+</div>
+
+
+
+
